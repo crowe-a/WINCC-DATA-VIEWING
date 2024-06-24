@@ -1,2 +1,2 @@
-I have build SCADA unit With s7 1200 1214 plc and IPC377G. All current transformer connected AI input in to PLC then all AI values are been in conv and scale. Values showing on the screen and all periods will saved automatıcly. Each period name is the end date of the period.
+I have build SCADA unit With s7 1200 1214 plc and IPC377G. All current measurment transformer connected AI input in to PLC then all AI values are been in conv and scale. Values showing on the screen and all periods will saved automatıcly. Each period name is the end date of the period.
 When ı want to get listed historcal values, a js func is working and getting lists or values. I have used WINCC UNIFIED,because I have to do complicated manıpluatıon.
